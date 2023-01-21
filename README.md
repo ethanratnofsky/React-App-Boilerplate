@@ -1,11 +1,15 @@
 # React App Template (Ethan's Version)
+
 This repository contains the source code for the frontend of a React web application.
 
 ## Getting Started
+
 ### Prerequisites
-- [Node.js](https://nodejs.org/en/)
+
+-   [Node.js](https://nodejs.org/en/)
 
 ### Installation
+
 1. Clone this repository.
     ```bash
     git clone https://github.com/ethanratnofsky/React-App-Template.git
@@ -29,19 +33,30 @@ This repository contains the source code for the frontend of a React web applica
         - This should be the URL of your GitHub repository's issues page.
     - `homepage`
         - This should be the URL of your project's README file in your GitHub repository.
-3. Install the Node dependencies.
+4. Install the Node dependencies.
     ```bash
     npm install
     ```
-4. Start the development server.
+5. Start the development server.
     ```bash
     npm start
     ```
-5. Navigate to [http://localhost:8080](http://localhost:8080) in your browser.
+6. Navigate to [http://localhost:8080](http://localhost:8080) in your browser.
 
-### Development
+## Development Notes
+
+#### Prettier Formatting
+
+To format your code with the Prettier formatter, run the following command:
+
+```bash
+npm run format
+```
+
+Prettier formatting configurations are stored in the `.prettierrc` file.
 
 #### Custom Favicon
+
 1. Navigate to [https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/).
 2. Upload your desired image.
 3. Download the generated favicon.
@@ -49,5 +64,6 @@ This repository contains the source code for the frontend of a React web applica
 5. Copy (and replace) the contents of the `favicon` directory to the `public` directory in your project.
 
 #### Search Engine Optimization (SEO)
+
 1. Edit the `description` and `keywords` meta tags in the `index.html` file in the `public` directory.
 2. Edit the `short_name`, `name`, and `homepage` fields in the `manifest.json` file in the `public` directory.
