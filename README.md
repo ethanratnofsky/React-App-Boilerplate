@@ -45,7 +45,7 @@ This repository contains the source code for the frontend of a React web applica
 
 ## Development Notes
 
-#### Prettier Formatting
+### Prettier Formatting
 
 To format your code with the Prettier formatter, run the following command:
 
@@ -55,7 +55,7 @@ npm run format
 
 Prettier formatting configurations are stored in the `.prettierrc` file.
 
-#### Custom Favicon
+### Custom Favicon
 
 1. Navigate to [https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/).
 2. Upload your desired image.
