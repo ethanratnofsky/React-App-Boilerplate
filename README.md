@@ -1,4 +1,4 @@
-# React App Template (Ethan's Version)
+# React App Boilerplate (Ethan's Version)
 
 This repository contains the source code for the frontend of a React web application.
 
@@ -12,11 +12,11 @@ This repository contains the source code for the frontend of a React web applica
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/ethanratnofsky/React-App-Template.git
+    git clone https://github.com/ethanratnofsky/React-App-Boilerplate.git
     ```
 2. Navigate to the project directory.
     ```bash
-    cd React-App-Template
+    cd React-App-Boilerplate
     ```
 3. Edit the following values in the `package.json` file.
     - `name`

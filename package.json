@@ -1,7 +1,7 @@
 {
-    "name": "react-app-template",
+    "name": "react-app-boilerplate",
     "version": "1.0.0",
-    "description": "This is a template for a React application.",
+    "description": "This is a boilerplate for a React application.",
     "main": "./src/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,20 +11,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ethanratnofsky/React-App-Template.git"
+        "url": "git+https://github.com/ethanratnofsky/React-App-Boilerplate.git"
     },
     "keywords": [
         "react",
         "web",
         "app",
-        "template"
+        "boilerplate"
     ],
     "author": "Ethan Ratnofsky",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/ethanratnofsky/React-App-Template/issues"
+        "url": "https://github.com/ethanratnofsky/React-App-Boilerplate/issues"
     },
-    "homepage": "https://github.com/ethanratnofsky/React-App-Template#readme",
+    "homepage": "https://github.com/ethanratnofsky/React-App-Boilerplate#readme",
     "babel": {
         "presets": [
             "@babel/preset-env",

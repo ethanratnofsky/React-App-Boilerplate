@@ -1,7 +1,7 @@
 {
-    "short_name": "React App Template",
-    "name": "A template for a React web application",
-    "homepage": "https://github.com/ethanratnofsky/React-App-Template#readme",
+    "short_name": "React App Boilerplate",
+    "name": "A boilerplate for a React web application",
+    "homepage": "https://github.com/ethanratnofsky/React-App-Boilerplate#readme",
     "icons": [
         {
             "src": "favicon.ico",
