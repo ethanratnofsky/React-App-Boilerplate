@@ -63,7 +63,7 @@ Prettier formatting configurations are stored in the `.prettierrc` file.
 4. Extract the contents of the downloaded archive.
 5. Copy (and replace) the contents of the `favicon` directory to the `public` directory in your project.
 
-#### Search Engine Optimization (SEO)
+### Search Engine Optimization (SEO)
 
 1. Edit the `description` and `keywords` meta tags in the `index.html` file in the `public` directory.
 2. Edit the `short_name`, `name`, and `homepage` fields in the `manifest.json` file in the `public` directory.
